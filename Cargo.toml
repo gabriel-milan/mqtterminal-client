@@ -18,7 +18,7 @@ chrono = "0.4"
 openssl = "0.10"
 
 [[bin]]
-name = "mqttterminal-client"
+name = "mqtterminal-client"
 path = "src/main.rs"
 
 [features]
